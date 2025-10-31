@@ -403,6 +403,12 @@
 		(uuid "27093da9-9445-456c-9118-930ca2119e0f")
 	)
 	(junction
+		(at 417.83 157.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2b1184d4-8b6f-429e-aba2-a8287d2750f7")
+	)
+	(junction
 		(at 143.51 142.24)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -727,6 +733,12 @@
 		(uuid "e302885d-bb64-4a3d-bf3c-af11456b38f5")
 	)
 	(junction
+		(at 425.45 142.24)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e3cacd21-2e42-4652-92bc-ecec8fb31ab0")
+	)
+	(junction
 		(at 367.03 127)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -974,7 +986,7 @@
 	)
 	(wire
 		(pts
-			(xy 425.45 171.45) (xy 425.45 111.76)
+			(xy 425.45 171.45) (xy 425.45 142.24)
 		)
 		(stroke
 			(width 0)
@@ -1994,6 +2006,16 @@
 	)
 	(wire
 		(pts
+			(xy 439.42 142.24) (xy 443.23 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8172dcc7-b53e-4526-af7c-7b12fd1aea12")
+	)
+	(wire
+		(pts
 			(xy 323.85 204.47) (xy 323.85 171.45)
 		)
 		(stroke
@@ -2241,6 +2263,16 @@
 			(type default)
 		)
 		(uuid "9b2c91fc-355c-4078-ae40-9feb85c365db")
+	)
+	(wire
+		(pts
+			(xy 443.23 142.24) (xy 443.23 143.51)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9bb1b364-4783-4774-be40-459b91df7c47")
 	)
 	(wire
 		(pts
@@ -2594,6 +2626,16 @@
 	)
 	(wire
 		(pts
+			(xy 443.23 157.48) (xy 417.83 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ca65e8b5-94d7-473f-822e-dac57c84aabe")
+	)
+	(wire
+		(pts
 			(xy 209.55 142.24) (xy 213.36 142.24)
 		)
 		(stroke
@@ -2671,6 +2713,16 @@
 			(type default)
 		)
 		(uuid "d2e6c8a2-71dc-494b-9494-1144fe9d342f")
+	)
+	(wire
+		(pts
+			(xy 425.45 142.24) (xy 425.45 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d3091d23-6caa-41b0-ae76-7a3b75850057")
 	)
 	(wire
 		(pts
@@ -2784,6 +2836,16 @@
 	)
 	(wire
 		(pts
+			(xy 443.23 151.13) (xy 443.23 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e50e3c17-8954-433e-b61f-b93335859d1e")
+	)
+	(wire
+		(pts
 			(xy 363.22 142.24) (xy 367.03 142.24)
 		)
 		(stroke
@@ -2851,6 +2913,16 @@
 			(type default)
 		)
 		(uuid "e745bbce-589d-4357-887b-fa3516d696f6")
+	)
+	(wire
+		(pts
+			(xy 425.45 142.24) (xy 429.26 142.24)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e94d49d6-6a3c-467c-88e5-5f2784997595")
 	)
 	(wire
 		(pts
@@ -3930,7 +4002,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2aec1f3e-52b6-4374-b7ea-82ea870a9679")
-		(property "Reference" "SW34"
+		(property "Reference" "SW35"
 			(at 408.94 163.83 0)
 			(effects
 				(font
@@ -3982,7 +4054,7 @@
 		(instances
 			(project "kb"
 				(path "/574eb982-20e8-472c-879b-e7fca9fdd002"
-					(reference "SW34")
+					(reference "SW35")
 					(unit 1)
 				)
 			)
@@ -4086,7 +4158,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "30cd7482-a632-4826-aea6-fe3073a3d3ee")
-		(property "Reference" "SW29"
+		(property "Reference" "SW30"
 			(at 281.94 163.83 0)
 			(effects
 				(font
@@ -4138,7 +4210,7 @@
 		(instances
 			(project "kb"
 				(path "/574eb982-20e8-472c-879b-e7fca9fdd002"
-					(reference "SW29")
+					(reference "SW30")
 					(unit 1)
 				)
 			)
@@ -4418,7 +4490,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3464ecd9-b717-49fd-abb2-908e6ddc35ce")
-		(property "Reference" "SW43"
+		(property "Reference" "SW44"
 			(at 332.74 196.85 0)
 			(effects
 				(font
@@ -4470,7 +4542,7 @@
 		(instances
 			(project "kb"
 				(path "/574eb982-20e8-472c-879b-e7fca9fdd002"
-					(reference "SW43")
+					(reference "SW44")
 					(unit 1)
 				)
 			)
@@ -4906,7 +4978,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3ab19719-7449-4efe-8763-a663c4a9eaa8")
-		(property "Reference" "SW30"
+		(property "Reference" "SW31"
 			(at 307.34 163.83 0)
 			(effects
 				(font
@@ -4958,7 +5030,7 @@
 		(instances
 			(project "kb"
 				(path "/574eb982-20e8-472c-879b-e7fca9fdd002"
-					(reference "SW30")
+					(reference "SW31")
 					(unit 1)
 				)
 			)
@@ -5306,7 +5378,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4524cdfa-c467-4f88-ba55-cad6975c4de2")
-		(property "Reference" "SW26"
+		(property "Reference" "SW27"
 			(at 204.47 163.83 0)
 			(effects
 				(font
@@ -5358,7 +5430,7 @@
 		(instances
 			(project "kb"
 				(path "/574eb982-20e8-472c-879b-e7fca9fdd002"
-					(reference "SW26")
+					(reference "SW27")
 					(unit 1)
 				)
 			)
@@ -5374,7 +5446,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "48922f64-6dd3-4e88-ae5b-53442fa05970")
-		(property "Reference" "SW44"
+		(property "Reference" "SW45"
 			(at 358.14 196.85 0)
 			(effects
 				(font
@@ -5426,7 +5498,7 @@
 		(instances
 			(project "kb"
 				(path "/574eb982-20e8-472c-879b-e7fca9fdd002"
-					(reference "SW44")
+					(reference "SW45")
 					(unit 1)
 				)
 			)
@@ -5858,7 +5930,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1.5U"
 			(at 153.67 106.68 0)
 			(effects
 				(font
@@ -6086,7 +6158,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5f69d256-497a-4b0c-bc46-a97e199de191")
-		(property "Reference" "SW32"
+		(property "Reference" "SW33"
 			(at 358.14 163.83 0)
 			(effects
 				(font
@@ -6138,7 +6210,7 @@
 		(instances
 			(project "kb"
 				(path "/574eb982-20e8-472c-879b-e7fca9fdd002"
-					(reference "SW32")
+					(reference "SW33")
 					(unit 1)
 				)
 			)
@@ -6154,7 +6226,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "615dc7d7-a32a-4a72-bb63-9e76c6815408")
-		(property "Reference" "SW38"
+		(property "Reference" "SW39"
 			(at 204.47 196.85 0)
 			(effects
 				(font
@@ -6170,7 +6242,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1.25U"
 			(at 204.47 199.39 0)
 			(effects
 				(font
@@ -6206,7 +6278,7 @@
 		(instances
 			(project "kb"
 				(path "/574eb982-20e8-472c-879b-e7fca9fdd002"
-					(reference "SW38")
+					(reference "SW39")
 					(unit 1)
 				)
 			)
@@ -6222,7 +6294,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "650e6a31-d06a-446a-aa84-12de267a4d93")
-		(property "Reference" "SW42"
+		(property "Reference" "SW43"
 			(at 307.34 196.85 0)
 			(effects
 				(font
@@ -6238,7 +6310,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1.25U"
 			(at 307.34 199.39 0)
 			(effects
 				(font
@@ -6274,7 +6346,7 @@
 		(instances
 			(project "kb"
 				(path "/574eb982-20e8-472c-879b-e7fca9fdd002"
-					(reference "SW42")
+					(reference "SW43")
 					(unit 1)
 				)
 			)
@@ -6534,7 +6606,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6b374583-96b9-492b-a235-b0a9332d0e2d")
-		(property "Reference" "SW35"
+		(property "Reference" "SW36"
 			(at 434.34 163.83 0)
 			(effects
 				(font
@@ -6586,7 +6658,7 @@
 		(instances
 			(project "kb"
 				(path "/574eb982-20e8-472c-879b-e7fca9fdd002"
-					(reference "SW35")
+					(reference "SW36")
 					(unit 1)
 				)
 			)
@@ -6670,7 +6742,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "780b2226-8ad5-41c1-b0c8-3901027e458b")
-		(property "Reference" "SW27"
+		(property "Reference" "SW28"
 			(at 229.87 163.83 0)
 			(effects
 				(font
@@ -6722,7 +6794,7 @@
 		(instances
 			(project "kb"
 				(path "/574eb982-20e8-472c-879b-e7fca9fdd002"
-					(reference "SW27")
+					(reference "SW28")
 					(unit 1)
 				)
 			)
@@ -6738,7 +6810,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7aac55f7-a6b9-4089-a369-7f17b24eb360")
-		(property "Reference" "SW37"
+		(property "Reference" "SW38"
 			(at 179.07 196.85 0)
 			(effects
 				(font
@@ -6790,7 +6862,7 @@
 		(instances
 			(project "kb"
 				(path "/574eb982-20e8-472c-879b-e7fca9fdd002"
-					(reference "SW37")
+					(reference "SW38")
 					(unit 1)
 				)
 			)
@@ -6962,7 +7034,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "84832a84-e0eb-4b0a-aa79-519fd6955a14")
-		(property "Reference" "SW33"
+		(property "Reference" "SW34"
 			(at 383.54 163.83 0)
 			(effects
 				(font
@@ -7014,7 +7086,7 @@
 		(instances
 			(project "kb"
 				(path "/574eb982-20e8-472c-879b-e7fca9fdd002"
-					(reference "SW33")
+					(reference "SW34")
 					(unit 1)
 				)
 			)
@@ -7206,7 +7278,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8e256c54-70a9-4b8e-b4dd-1a99fd8f017d")
-		(property "Reference" "SW39"
+		(property "Reference" "SW40"
 			(at 229.87 196.85 0)
 			(effects
 				(font
@@ -7222,7 +7294,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-2.25U"
 			(at 229.87 199.39 0)
 			(effects
 				(font
@@ -7258,7 +7330,7 @@
 		(instances
 			(project "kb"
 				(path "/574eb982-20e8-472c-879b-e7fca9fdd002"
-					(reference "SW39")
+					(reference "SW40")
 					(unit 1)
 				)
 			)
@@ -7362,7 +7434,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "99e3fe88-691c-41be-95f7-9b019b8a47f3")
-		(property "Reference" "SW28"
+		(property "Reference" "SW29"
 			(at 256.54 163.83 0)
 			(effects
 				(font
@@ -7414,7 +7486,7 @@
 		(instances
 			(project "kb"
 				(path "/574eb982-20e8-472c-879b-e7fca9fdd002"
-					(reference "SW28")
+					(reference "SW29")
 					(unit 1)
 				)
 			)
@@ -8142,7 +8214,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b017d57e-2516-4515-93b7-fb148d81e1e7")
-		(property "Reference" "SW31"
+		(property "Reference" "SW32"
 			(at 332.74 163.83 0)
 			(effects
 				(font
@@ -8194,7 +8266,7 @@
 		(instances
 			(project "kb"
 				(path "/574eb982-20e8-472c-879b-e7fca9fdd002"
-					(reference "SW31")
+					(reference "SW32")
 					(unit 1)
 				)
 			)
@@ -8386,7 +8458,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b3c90019-651c-4bd5-8e59-c85347c491ce")
-		(property "Reference" "SW25"
+		(property "Reference" "SW26"
 			(at 179.07 163.83 0)
 			(effects
 				(font
@@ -8438,7 +8510,7 @@
 		(instances
 			(project "kb"
 				(path "/574eb982-20e8-472c-879b-e7fca9fdd002"
-					(reference "SW25")
+					(reference "SW26")
 					(unit 1)
 				)
 			)
@@ -8806,7 +8878,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c31a1f1c-17dd-4b92-ab9a-42e556fa10f2")
-		(property "Reference" "SW41"
+		(property "Reference" "SW42"
 			(at 281.94 196.85 0)
 			(effects
 				(font
@@ -8822,7 +8894,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-2.25U"
 			(at 281.94 199.39 0)
 			(effects
 				(font
@@ -8858,7 +8930,7 @@
 		(instances
 			(project "kb"
 				(path "/574eb982-20e8-472c-879b-e7fca9fdd002"
-					(reference "SW41")
+					(reference "SW42")
 					(unit 1)
 				)
 			)
@@ -8874,7 +8946,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c83e89b4-9c8c-4fc3-a079-683d6f4f1c4a")
-		(property "Reference" "SW40"
+		(property "Reference" "SW41"
 			(at 256.54 196.85 0)
 			(effects
 				(font
@@ -8926,7 +8998,7 @@
 		(instances
 			(project "kb"
 				(path "/574eb982-20e8-472c-879b-e7fca9fdd002"
-					(reference "SW40")
+					(reference "SW41")
 					(unit 1)
 				)
 			)
@@ -9358,7 +9430,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1.75U"
 			(at 434.34 106.68 0)
 			(effects
 				(font
@@ -9582,7 +9654,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1.75U"
 			(at 153.67 137.16 0)
 			(effects
 				(font
@@ -9634,7 +9706,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "dde016d3-9d98-44a4-b817-96b6cd0e707e")
-		(property "Reference" "SW45"
+		(property "Reference" "SW46"
 			(at 383.54 196.85 0)
 			(effects
 				(font
@@ -9686,7 +9758,7 @@
 		(instances
 			(project "kb"
 				(path "/574eb982-20e8-472c-879b-e7fca9fdd002"
-					(reference "SW45")
+					(reference "SW46")
 					(unit 1)
 				)
 			)
@@ -9782,6 +9854,74 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
+		(at 434.34 142.24 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e1d4767c-8568-4c69-a083-5a0b11de4874")
+		(property "Reference" "SW24"
+			(at 434.34 134.62 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push"
+			(at 434.34 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "MX_Solderable:MX-Solderable-1.5U"
+			(at 434.34 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 434.34 137.16 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, generic, two pins"
+			(at 434.34 142.24 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "4a5265f8-241e-41c1-8245-8e953fb0e287")
+		)
+		(pin "1"
+			(uuid "53ebaee1-d596-4402-9eca-8a644c8f9d1f")
+		)
+		(instances
+			(project "kb"
+				(path "/574eb982-20e8-472c-879b-e7fca9fdd002"
+					(reference "SW24")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Switch:SW_Push")
 		(at 332.74 111.76 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9858,7 +9998,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ece21845-76ec-4248-9096-954cb9dbcc13")
-		(property "Reference" "SW36"
+		(property "Reference" "SW37"
 			(at 153.67 196.85 0)
 			(effects
 				(font
@@ -9874,7 +10014,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-1.25U"
 			(at 153.67 199.39 0)
 			(effects
 				(font
@@ -9910,7 +10050,7 @@
 		(instances
 			(project "kb"
 				(path "/574eb982-20e8-472c-879b-e7fca9fdd002"
-					(reference "SW36")
+					(reference "SW37")
 					(unit 1)
 				)
 			)
@@ -9926,7 +10066,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ee9d7298-aa78-4f81-b1ba-b36af58d04a4")
-		(property "Reference" "SW24"
+		(property "Reference" "SW25"
 			(at 153.67 163.83 0)
 			(effects
 				(font
@@ -9942,7 +10082,7 @@
 				)
 			)
 		)
-		(property "Footprint" "MX_Solderable:MX-Solderable-1U"
+		(property "Footprint" "MX_Solderable:MX-Solderable-2.25U"
 			(at 153.67 166.37 0)
 			(effects
 				(font
@@ -9978,7 +10118,7 @@
 		(instances
 			(project "kb"
 				(path "/574eb982-20e8-472c-879b-e7fca9fdd002"
-					(reference "SW24")
+					(reference "SW25")
 					(unit 1)
 				)
 			)
@@ -10047,6 +10187,94 @@
 			(project "kb"
 				(path "/574eb982-20e8-472c-879b-e7fca9fdd002"
 					(reference "SW4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:D")
+		(at 443.23 147.32 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ef89d287-9b24-44c1-9663-3e90a38dbd83")
+		(property "Reference" "D46"
+			(at 445.77 146.0499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "D"
+			(at 445.77 148.5899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
+			(at 443.23 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 443.23 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Diode"
+			(at 443.23 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "D"
+			(at 443.23 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 443.23 147.32 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "0eb6d520-bc52-4f5d-b462-b1db2e29f004")
+		)
+		(pin "1"
+			(uuid "8186771a-a864-4343-823b-1ed21fd40280")
+		)
+		(instances
+			(project "kb"
+				(path "/574eb982-20e8-472c-879b-e7fca9fdd002"
+					(reference "D46")
 					(unit 1)
 				)
 			)
