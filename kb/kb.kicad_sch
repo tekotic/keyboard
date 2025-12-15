@@ -4424,7 +4424,7 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 63.5) (xy 77.47 62.23)
+			(xy 73.66 63.5) (xy 73.66 62.23)
 		)
 		(stroke
 			(width 0)
@@ -5834,7 +5834,7 @@
 	)
 	(wire
 		(pts
-			(xy 77.47 62.23) (xy 80.01 62.23)
+			(xy 73.66 62.23) (xy 80.01 62.23)
 		)
 		(stroke
 			(width 0)
@@ -6576,7 +6576,7 @@
 	)
 	(global_label "COL8"
 		(shape input)
-		(at 123.19 82.55 0)
+		(at 123.19 64.77 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6586,7 +6586,7 @@
 		)
 		(uuid "0b13392c-493e-4653-aa16-6b7c649c2ff2")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 131.0133 82.55 0)
+			(at 131.0133 64.77 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6708,29 +6708,29 @@
 	)
 	(global_label "COL6"
 		(shape input)
-		(at 123.19 85.09 0)
+		(at 87.63 105.41 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "31b70300-202c-41af-aa9d-c3db4e0ffef5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 131.0133 85.09 0)
+			(at 79.8067 105.41 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
 	)
 	(global_label "ROW0"
 		(shape input)
-		(at 87.63 102.87 180)
+		(at 87.63 107.95 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6740,7 +6740,7 @@
 		)
 		(uuid "35ac9fdc-a7df-4740-9b96-220d5bfa058c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 79.3834 102.87 0)
+			(at 79.3834 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6818,22 +6818,22 @@
 	)
 	(global_label "COL10"
 		(shape input)
-		(at 87.63 125.73 180)
+		(at 123.19 69.85 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "442dd1ae-f4e0-4653-a83b-14ebb36ba327")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 78.5972 125.73 0)
+			(at 132.2228 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -6862,7 +6862,7 @@
 	)
 	(global_label "ROW1"
 		(shape input)
-		(at 87.63 105.41 180)
+		(at 87.63 110.49 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6872,7 +6872,7 @@
 		)
 		(uuid "59892bd8-2f6d-4411-ad53-abe8d4a90c8c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 79.3834 105.41 0)
+			(at 79.3834 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6950,7 +6950,7 @@
 	)
 	(global_label "ROW2"
 		(shape input)
-		(at 87.63 107.95 180)
+		(at 87.63 113.03 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6960,7 +6960,7 @@
 		)
 		(uuid "72b664a4-b5ad-4868-be0e-24480477194c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 79.3834 107.95 0)
+			(at 79.3834 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6972,22 +6972,22 @@
 	)
 	(global_label "COL9"
 		(shape input)
-		(at 87.63 128.27 180)
+		(at 123.19 67.31 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "77f63e90-92db-4bbc-83a5-dd2388ecd04e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 79.8067 128.27 0)
+			(at 131.0133 67.31 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -7016,22 +7016,22 @@
 	)
 	(global_label "COL3"
 		(shape input)
-		(at 123.19 64.77 0)
+		(at 87.63 97.79 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "840951fd-ac41-4f27-a294-4c3ac28ee056")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 131.0133 64.77 0)
+			(at 79.8067 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -7082,7 +7082,7 @@
 	)
 	(global_label "COL7"
 		(shape input)
-		(at 123.19 90.17 0)
+		(at 123.19 62.23 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7092,7 +7092,7 @@
 		)
 		(uuid "93713cdc-37da-4ab5-b6f4-6333e013c8b8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 131.0133 90.17 0)
+			(at 131.0133 62.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7104,29 +7104,29 @@
 	)
 	(global_label "COL11"
 		(shape input)
-		(at 87.63 123.19 180)
+		(at 123.19 72.39 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify right)
+			(justify left)
 		)
 		(uuid "9b42ed29-f60c-4d6d-a174-1ccc7502203e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 78.5972 123.19 0)
+			(at 132.2228 72.39 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
+				(justify left)
 				(hide yes)
 			)
 		)
 	)
 	(global_label "COL0"
 		(shape input)
-		(at 123.19 72.39 0)
+		(at 123.19 95.25 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7136,7 +7136,7 @@
 		)
 		(uuid "9d9ae378-1982-4a06-9d9a-20e70fece7f8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 131.0133 72.39 0)
+			(at 131.0133 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7170,29 +7170,7 @@
 	)
 	(global_label "COL4"
 		(shape input)
-		(at 123.19 87.63 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "a214a0a9-bb8f-4b6a-b5be-638c04b875e6")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 131.0133 87.63 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "ROW3"
-		(shape input)
-		(at 87.63 90.17 180)
+		(at 87.63 100.33 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7200,14 +7178,36 @@
 			)
 			(justify right)
 		)
-		(uuid "ab7d2b69-f6e9-4d5e-a8cc-dbad870fb6f0")
+		(uuid "a214a0a9-bb8f-4b6a-b5be-638c04b875e6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 79.3834 90.17 0)
+			(at 79.8067 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "ROW3"
+		(shape input)
+		(at 123.19 74.93 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ab7d2b69-f6e9-4d5e-a8cc-dbad870fb6f0")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 131.4366 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -7258,22 +7258,22 @@
 	)
 	(global_label "COL5"
 		(shape input)
-		(at 123.19 92.71 0)
+		(at 87.63 102.87 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
 		(uuid "bceb0e73-f5a1-4859-9416-c4d80dd14450")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 131.0133 92.71 0)
+			(at 79.8067 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 				(hide yes)
 			)
 		)
@@ -7390,7 +7390,7 @@
 	)
 	(global_label "COL1"
 		(shape input)
-		(at 123.19 69.85 0)
+		(at 123.19 97.79 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7400,7 +7400,7 @@
 		)
 		(uuid "ef20c6a6-92db-4aa0-8318-de161444a39c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 131.0133 69.85 0)
+			(at 131.0133 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7434,7 +7434,7 @@
 	)
 	(global_label "COL2"
 		(shape input)
-		(at 123.19 67.31 0)
+		(at 123.19 100.33 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -7444,7 +7444,7 @@
 		)
 		(uuid "f1530189-f088-4d75-a156-5986b6699b91")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 131.0133 67.31 0)
+			(at 131.0133 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7504,7 +7504,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 293.37 118.11 0)
 			(effects
 				(font
@@ -7863,7 +7863,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 447.04 118.11 0)
 			(effects
 				(font
@@ -8087,7 +8087,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 242.57 118.11 0)
 			(effects
 				(font
@@ -8175,7 +8175,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 345.44 118.11 0)
 			(effects
 				(font
@@ -8333,7 +8333,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 524.51 151.13 0)
 			(effects
 				(font
@@ -8555,7 +8555,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 318.77 88.9 0)
 			(effects
 				(font
@@ -8711,7 +8711,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 448.31 151.13 0)
 			(effects
 				(font
@@ -8799,7 +8799,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 267.97 118.11 0)
 			(effects
 				(font
@@ -8887,7 +8887,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 472.44 118.11 0)
 			(effects
 				(font
@@ -9111,7 +9111,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 497.84 88.9 0)
 			(effects
 				(font
@@ -9199,7 +9199,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 293.37 58.42 0)
 			(effects
 				(font
@@ -9287,7 +9287,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 345.44 151.13 0)
 			(effects
 				(font
@@ -9375,7 +9375,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 421.64 118.11 0)
 			(effects
 				(font
@@ -9601,7 +9601,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 370.84 88.9 0)
 			(effects
 				(font
@@ -9755,7 +9755,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 396.24 118.11 0)
 			(effects
 				(font
@@ -9996,7 +9996,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 267.97 58.42 0)
 			(effects
 				(font
@@ -10488,7 +10488,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 345.44 88.9 0)
 			(effects
 				(font
@@ -10576,7 +10576,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 370.84 118.11 0)
 			(effects
 				(font
@@ -10664,7 +10664,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 421.64 58.42 0)
 			(effects
 				(font
@@ -10798,7 +10798,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 77.47 63.5 0)
+		(at 73.66 63.5 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10806,7 +10806,7 @@
 		(dnp no)
 		(uuid "58b6991e-ac08-4372-9cf0-dcefeccfea6f")
 		(property "Reference" "#PWR016"
-			(at 77.47 69.85 0)
+			(at 73.66 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10815,7 +10815,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 74.93 63.754 0)
+			(at 71.12 63.754 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10823,7 +10823,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 77.47 63.5 0)
+			(at 73.66 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10832,7 +10832,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 77.47 63.5 0)
+			(at 73.66 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10841,7 +10841,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 77.47 63.5 0)
+			(at 73.66 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10957,7 +10957,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 396.24 88.9 0)
 			(effects
 				(font
@@ -11045,7 +11045,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 318.77 118.11 0)
 			(effects
 				(font
@@ -11192,7 +11192,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
+		(property "Value" "0.1uF"
 			(at 83.82 214.6362 0)
 			(effects
 				(font
@@ -11337,7 +11337,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 521.97 88.9 0)
 			(effects
 				(font
@@ -11763,7 +11763,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 447.04 58.42 0)
 			(effects
 				(font
@@ -11851,7 +11851,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 523.24 58.42 0)
 			(effects
 				(font
@@ -12491,7 +12491,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 447.04 88.9 0)
 			(effects
 				(font
@@ -12647,7 +12647,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 523.24 118.11 0)
 			(effects
 				(font
@@ -12735,7 +12735,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 293.37 88.9 0)
 			(effects
 				(font
@@ -12891,7 +12891,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 293.37 151.13 0)
 			(effects
 				(font
@@ -13388,7 +13388,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 318.77 58.42 0)
 			(effects
 				(font
@@ -13678,7 +13678,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 421.64 88.9 0)
 			(effects
 				(font
@@ -13766,7 +13766,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 242.57 58.42 0)
 			(effects
 				(font
@@ -13988,7 +13988,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 267.97 88.9 0)
 			(effects
 				(font
@@ -14076,7 +14076,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 370.84 58.42 0)
 			(effects
 				(font
@@ -14300,7 +14300,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 396.24 58.42 0)
 			(effects
 				(font
@@ -14388,7 +14388,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 497.84 118.11 0)
 			(effects
 				(font
@@ -14610,7 +14610,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 318.77 151.13 0)
 			(effects
 				(font
@@ -14698,7 +14698,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 473.71 151.13 0)
 			(effects
 				(font
@@ -14786,7 +14786,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 242.57 88.9 0)
 			(effects
 				(font
@@ -14944,7 +14944,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 472.44 88.9 0)
 			(effects
 				(font
@@ -15168,7 +15168,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 396.24 151.13 0)
 			(effects
 				(font
@@ -15460,7 +15460,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 267.97 151.13 0)
 			(effects
 				(font
@@ -15686,7 +15686,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 472.44 58.42 0)
 			(effects
 				(font
@@ -15910,7 +15910,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 242.57 151.13 0)
 			(effects
 				(font
@@ -16204,7 +16204,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 345.44 58.42 0)
 			(effects
 				(font
@@ -16704,7 +16704,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 497.84 58.42 0)
 			(effects
 				(font
@@ -16792,7 +16792,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Diode_SMD:D_0201_0603Metric"
+		(property "Footprint" "Diode_SMD:D_0805_2012Metric"
 			(at 499.11 151.13 0)
 			(effects
 				(font
