@@ -3164,7 +3164,7 @@
 		(uuid "9efded79-f313-436f-8094-16578c6479ec")
 	)
 	(junction
-		(at 62.23 162.56)
+		(at 68.58 157.48)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9f8c7921-7869-473e-9794-61e81689860d")
@@ -3338,7 +3338,7 @@
 		(uuid "e4ae2d18-f640-4eb5-9bc1-a4e14993cc58")
 	)
 	(junction
-		(at 68.58 152.4)
+		(at 74.93 147.32)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e8d11b5e-0747-41e6-b75e-1cc92f306924")
@@ -3799,7 +3799,7 @@
 	)
 	(wire
 		(pts
-			(xy 62.23 162.56) (xy 62.23 163.83)
+			(xy 68.58 157.48) (xy 68.58 158.75)
 		)
 		(stroke
 			(width 0)
@@ -3889,7 +3889,7 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 162.56) (xy 62.23 162.56)
+			(xy 74.93 157.48) (xy 68.58 157.48)
 		)
 		(stroke
 			(width 0)
@@ -4019,7 +4019,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 152.4) (xy 68.58 152.4)
+			(xy 62.23 147.32) (xy 74.93 147.32)
 		)
 		(stroke
 			(width 0)
@@ -4169,7 +4169,7 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 152.4) (xy 71.12 152.4)
+			(xy 74.93 147.32) (xy 77.47 147.32)
 		)
 		(stroke
 			(width 0)
@@ -4769,7 +4769,7 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 158.75) (xy 68.58 162.56)
+			(xy 74.93 153.67) (xy 74.93 157.48)
 		)
 		(stroke
 			(width 0)
@@ -5789,7 +5789,7 @@
 	)
 	(wire
 		(pts
-			(xy 68.58 153.67) (xy 68.58 152.4)
+			(xy 74.93 148.59) (xy 74.93 147.32)
 		)
 		(stroke
 			(width 0)
@@ -6049,7 +6049,7 @@
 	)
 	(wire
 		(pts
-			(xy 55.88 162.56) (xy 62.23 162.56)
+			(xy 62.23 157.48) (xy 68.58 157.48)
 		)
 		(stroke
 			(width 0)
@@ -6935,7 +6935,7 @@
 	)
 	(global_label "RESET"
 		(shape input)
-		(at 71.12 152.4 90)
+		(at 77.47 147.32 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6945,7 +6945,7 @@
 		)
 		(uuid "d084d359-2485-47a8-9967-863b824cc14c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 71.12 143.6697 90)
+			(at 77.47 138.5897 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7203,7 +7203,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 36.83 186.69 0)
 			(effects
 				(font
@@ -7559,7 +7559,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 83.82 63.5 0)
 			(effects
 				(font
@@ -7759,7 +7759,7 @@
 	)
 	(symbol
 		(lib_id "Switch:SW_Push")
-		(at 55.88 157.48 270)
+		(at 62.23 152.4 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7767,7 +7767,7 @@
 		(dnp no)
 		(uuid "19f530c2-5f4c-47e0-afa2-0d324de294a2")
 		(property "Reference" "SW47"
-			(at 60.198 154.94 0)
+			(at 67.31 150.368 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7776,7 +7776,7 @@
 			)
 		)
 		(property "Value" "RESET"
-			(at 52.578 153.416 0)
+			(at 58.928 148.336 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7785,7 +7785,7 @@
 			)
 		)
 		(property "Footprint" "Button_Switch_SMD:SW_SPST_SKQG_WithStem"
-			(at 60.96 157.48 0)
+			(at 67.31 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7794,7 +7794,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 60.96 157.48 0)
+			(at 67.31 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7803,7 +7803,7 @@
 			)
 		)
 		(property "Description" "Push button switch, generic, two pins"
-			(at 55.88 157.48 0)
+			(at 62.23 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7942,7 +7942,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 82.55 213.36 0)
 			(effects
 				(font
@@ -9210,7 +9210,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 19.05 186.69 0)
 			(effects
 				(font
@@ -9342,7 +9342,7 @@
 	)
 	(symbol
 		(lib_id "Device:C_Small")
-		(at 68.58 156.21 0)
+		(at 74.93 151.13 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9351,7 +9351,7 @@
 		(fields_autoplaced yes)
 		(uuid "3e299306-ae34-43d6-a8c0-860be3501949")
 		(property "Reference" "C6"
-			(at 71.12 154.9462 0)
+			(at 77.47 149.8662 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9360,7 +9360,7 @@
 			)
 		)
 		(property "Value" "100nF"
-			(at 71.12 157.4862 0)
+			(at 77.47 152.4062 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9368,8 +9368,8 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
-			(at 68.58 156.21 0)
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+			(at 74.93 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9378,7 +9378,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 68.58 156.21 0)
+			(at 74.93 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9387,7 +9387,7 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor, small symbol"
-			(at 68.58 156.21 0)
+			(at 74.93 151.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9503,7 +9503,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 83.82 58.42 0)
 			(effects
 				(font
@@ -10868,7 +10868,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 53.34 213.36 0)
 			(effects
 				(font
@@ -11090,7 +11090,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 74.93 182.88 0)
 			(effects
 				(font
@@ -12829,7 +12829,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 62.23 163.83 0)
+		(at 68.58 158.75 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12838,7 +12838,7 @@
 		(fields_autoplaced yes)
 		(uuid "93125daa-a066-4a3f-afd2-1c488172c0c7")
 		(property "Reference" "#PWR04"
-			(at 62.23 170.18 0)
+			(at 68.58 165.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12847,7 +12847,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 62.23 168.91 0)
+			(at 68.58 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12855,7 +12855,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 62.23 163.83 0)
+			(at 68.58 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12864,7 +12864,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 62.23 163.83 0)
+			(at 68.58 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12873,7 +12873,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 62.23 163.83 0)
+			(at 68.58 158.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14541,7 +14541,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 22.86 213.36 0)
 			(effects
 				(font
@@ -15057,7 +15057,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 43.18 213.36 0)
 			(effects
 				(font
@@ -15215,7 +15215,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 73.66 213.36 0)
 			(effects
 				(font
@@ -15733,7 +15733,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 33.02 213.36 0)
 			(effects
 				(font
@@ -16095,7 +16095,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 63.5 213.36 0)
 			(effects
 				(font
