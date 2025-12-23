@@ -8458,7 +8458,6 @@
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "33d0a698-afed-4b60-9d96-952bc9c90cc1")
 		(property "Reference" "D26"
 			(at 270.51 116.8399 90)
